@@ -4,7 +4,7 @@
   <title><![CDATA[hijack.pw]]></title>
   <link href="http://hij.github.com/atom.xml" rel="self"/>
   <link href="http://hij.github.com/"/>
-  <updated>2013-04-01T14:59:37+00:00</updated>
+  <updated>2013-04-01T15:05:44+00:00</updated>
   <id>http://hij.github.com/</id>
   <author>
     <name><![CDATA[hijack.pw]]></name>
@@ -20,17 +20,17 @@
     <id>http://hij.github.com/blog/2013/04/01/my-first-blog</id>
     <content type="html"><![CDATA[<h2>About the blog</h2>
 
-<p>A new gTLD is open to registering, it is a ugly suffix .pw. But I like new things, so I had this domain name registered.</p>
+<p>A new gTLD is open to registering, it is really an ugly suffix(.pw). But I love new things, so I had this domain name registered.</p>
 
-<p>It&#8217;s aimed to blog something about web security here though I don&#8217;t know too much about it. I hope it will tracing my learning&#8217;s curve, but meanwhile not annoying you guys who run into here. So I should write most of it in chinese except this piece ;)</p>
-
-<p>THX~</p>
+<p>It&#8217;s aimed to blog something about web security here though I don&#8217;t know too much about it. I hope it would trace my learning&#8217;s curve, but meanwhile not annoying you guys who run into here. So I decide to write most of it in chinese except this piece ;)</p>
 
 <h2>Who am I</h2>
 
 <p>I&#8217;m just a Perler learning Ruby and Rails these days. Love progarmming, web app developing and thinking day &amp; dreames.</p>
 
-<p>Be nice. Be consistent.</p>
+<p>Enjoy the words from Perldoc for perlstyle : Be nice. Be consistent.</p>
+
+<p>THX~</p>
 ]]></content>
   </entry>
   
