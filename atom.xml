@@ -4,7 +4,7 @@
   <title><![CDATA[hijack.pw]]></title>
   <link href="http://hij.github.com/atom.xml" rel="self"/>
   <link href="http://hij.github.com/"/>
-  <updated>2013-04-01T15:22:42+00:00</updated>
+  <updated>2013-04-20T01:31:02+08:00</updated>
   <id>http://hij.github.com/</id>
   <author>
     <name><![CDATA[hijack.pw]]></name>
@@ -14,9 +14,20 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Linode 客户信用卡信息泄露]]></title>
+    <link href="http://hij.github.com/blog/2013/04/20/linode-customers-credit-cards-leaked/"/>
+    <updated>2013-04-20T01:27:00+08:00</updated>
+    <id>http://hij.github.com/blog/2013/04/20/linode-customers-credit-cards-leaked</id>
+    <content type="html"><![CDATA[<h3>Linode 用户信用卡信息泄露</h3>
+
+<p>这比国内的 CSDN 用户密码泄露事件严重的太多了。</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[my first blog]]></title>
     <link href="http://hij.github.com/blog/2013/04/01/my-first-blog/"/>
-    <updated>2013-04-01T09:59:00+00:00</updated>
+    <updated>2013-04-01T09:59:00+08:00</updated>
     <id>http://hij.github.com/blog/2013/04/01/my-first-blog</id>
     <content type="html"><![CDATA[<h2>About the blog</h2>
 
